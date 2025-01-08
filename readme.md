@@ -25,7 +25,7 @@ I used the pandas library in this one so that I could learn data manipulation in
 
 1. Start the game by running the `wordle.py` script.
 2. Guess the secret word by typing a five-letter word. Any non five letter word will just use a chance
- ![image](https://github.com/user-attachments/assets/5b458edd-96d5-4716-b1b5-70775f885ac0)
+![image](https://github.com/user-attachments/assets/5b458edd-96d5-4716-b1b5-70775f885ac0)
 
 3. After each guess, you will recieve feedback:
 	correct letters will be seen as the letter,
